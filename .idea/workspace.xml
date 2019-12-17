@@ -69,13 +69,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1576590302276">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1576593633594">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/74.0.1462.864@74.0.1462.864" timestamp="1576590302276" />
+    <state x="362" y="0" key="CommitChangelistDialog2/74.0.1462.864@74.0.1462.864" timestamp="1576593633594" />
     <state x="182" y="0" key="SettingsEditor" timestamp="1576578502150">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="182" y="0" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1576578502150" />
+    <state x="296" y="91" key="Vcs.Push.Dialog.v2" timestamp="1576593653223">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="296" y="91" key="Vcs.Push.Dialog.v2/74.0.1462.864@74.0.1462.864" timestamp="1576593653223" />
   </component>
 </project>
