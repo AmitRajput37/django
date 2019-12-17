@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a704167-6b10-4040-aa05-197058953c34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UVqWLBzKZxJP8eo5PxKXwsZRjY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rest_api_bank_app(amit)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a704167-6b10-4040-aa05-197058953c34" name="Default Changelist" comment="" />
+      <created>1575452140746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575452140746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="0" key="SettingsEditor" timestamp="1576578502150">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="182" y="0" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1576578502150" />
+  </component>
+</project>
